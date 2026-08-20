@@ -1,0 +1,4 @@
+interface:
+  display_name: "双向钢人"
+  short_description: "同时强化正反论证，识别关键变量并形成可行动的明确判断"
+  default_prompt: "使用 $double-steelman 先完成双向钢人分析并只提出一个关键问题；等我回答后，再给出判断、理由与下一步行动。"
